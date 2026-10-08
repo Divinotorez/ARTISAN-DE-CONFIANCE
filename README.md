@@ -91,3 +91,7 @@ Les différents documents du projet présentent la conception de la solution, so
 
 Projet réalisé dans le cadre de la formation d'ingénieur à **EPF**.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 755a9955e9b2dba54a303f5e989aa314858d4352
