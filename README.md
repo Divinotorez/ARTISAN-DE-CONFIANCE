@@ -92,8 +92,4 @@ Les différents documents du projet présentent la conception de la solution, so
 
 Projet réalisé dans le cadre de la formation d'ingénieur à **EPF**.
 
----
 
-## 👩🏽‍💻 Auteur
-
-**Divine Kenfack**isans
