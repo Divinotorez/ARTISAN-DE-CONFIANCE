@@ -32,7 +32,6 @@ L'objectif est de centraliser les données, d'automatiser certains traitements e
 - **Excel** — exploitation des données et tableaux de bord
 - **VBA** — automatisation et interface utilisateur
 - **AnalyseSI** — conception du MCD et du MLD
-- **Draw.io** — représentation des modèles
 - **Git / GitHub** — gestion et présentation du projet
 
 ---
@@ -92,8 +91,3 @@ Les différents documents du projet présentent la conception de la solution, so
 
 Projet réalisé dans le cadre de la formation d'ingénieur à **EPF**.
 
----
-
-## 👩🏽‍💻 Auteur
-
-**Divine Kenfack**isans
