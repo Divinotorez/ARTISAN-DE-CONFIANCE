@@ -1,10 +1,10 @@
-# 🛠️ Artisans de Confiance
+#  Artisans de Confiance
 
 ### Application de gestion et de suivi d'une plateforme de mise en relation entre clients et artisans
 
 ---
 
-## 📌 Présentation
+##  Présentation
 
 **Artisans de Confiance** est un projet de conception d'une solution permettant de gérer la mise en relation entre des clients et des artisans.
 
@@ -14,7 +14,7 @@ L'objectif est de centraliser les données, d'automatiser certains traitements e
 
 ---
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Concevoir une base de données relationnelle adaptée aux besoins de l'application.
 - Gérer les informations relatives aux clients, artisans, commandes et prestations.
@@ -25,7 +25,7 @@ L'objectif est de centraliser les données, d'automatiser certains traitements e
 
 ---
 
-## 🧰 Technologies & outils
+## Technologies & outils
 
 - **MySQL** — conception et gestion de la base de données
 - **SQL** — requêtes, vues et procédures
@@ -36,7 +36,7 @@ L'objectif est de centraliser les données, d'automatiser certains traitements e
 
 ---
 
-## 🗂️ Livrables
+##  Livrables
 
 Le projet comprend notamment :
 
@@ -49,7 +49,7 @@ Le projet comprend notamment :
 
 ---
 
-## 💡 Compétences mobilisées
+##  Compétences mobilisées
 
 ### Data & Bases de données
 
@@ -81,13 +81,13 @@ Le projet comprend notamment :
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Les différents documents du projet présentent la conception de la solution, son fonctionnement, les tests réalisés ainsi que les choix techniques effectués.
 
 ---
 
-## 🎓 Contexte
+##  Contexte
 
 Projet réalisé dans le cadre de la formation d'ingénieur à **EPF**.
 
